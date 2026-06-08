@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sorting-and-searching",
+      "title": "Sorting and Searching Algorithms",
+      "description": "Implement and compare fundamental searching and sorting algorithms. Learn linear search, binary search, bubble sort, selection sort, and quicksort while exploring algorithm efficiency and Big O notation.",
+      "path": "assignments/sorting-and-searching",
+      "dueDate": "2026-06-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
